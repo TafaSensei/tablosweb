@@ -1,2 +1,2 @@
 # tablosweb
-Data visualization of BIST Stocks
+Financial Tables' visualization of Borsa İstanbul (BIST) Stocks
